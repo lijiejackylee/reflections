@@ -20,3 +20,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+
+“/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl”
