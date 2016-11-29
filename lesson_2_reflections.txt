@@ -15,6 +15,8 @@ I can use the git diff and git diff —stage to compare the changes, to make sur
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When I want to do some little changes in my project or want to have a experiment try on the project and don’t want to include the changes in my project for now,  in this occasion  I would like to use branch, It will be very helpful.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
