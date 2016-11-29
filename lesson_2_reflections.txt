@@ -30,5 +30,6 @@ That’s what it is, so represent it in the diagram the way we do.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
+Automatic merging will lead to too many commit that you don’t want, while merges manually you can control when to commit.
 
 “/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl”
