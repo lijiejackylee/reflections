@@ -24,6 +24,9 @@ It’s awesome, I can view all the project history in the diagrams.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The two branches become one branch, it include the changes from the former two branches.
+That’s what it is, so represent it in the diagram the way we do.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
